@@ -1,0 +1,62 @@
+body{
+    font-size: large;
+    line-height: 1.5;
+    background-color: #b1a296;
+    font-family: sans-serif;
+    overflow-x: hidden;
+  }
+
+
+  
+    header {
+      background-color: #8d8178;
+      height: 75px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 50px;
+    }
+
+      
+span{
+    color: #F9E2D1;
+}
+
+.bild1 img {
+    margin-left: 30%;
+    margin-top: -4%;
+    }
+
+    .bild2 img {
+     margin-top: 0.2%;
+     margin-left: 10%;
+    float: left;
+    margin-right: 7px }
+
+
+    h1 {
+        line-height: 1.5;
+        color:#F9E2D1;
+        text-shadow: 0.5px 0.5px #333;
+        text-align: center;
+        margin-left: 6.5%;
+      }
+      
+      h2 {
+        
+        color:#F9E2D1;
+        text-shadow: 0.75px 0.75px #333;;
+        text-align: center;
+      } 
+      p {
+        line-height: 1.5;
+        color:#F9E2D1;
+        text-shadow: 0.5px 0.5px #333;
+        margin-left: 10%;
+        max-width: 800px;
+        font-size: large;
+      }
+    a{
+      text-decoration: none;
+      color: black;
+    }

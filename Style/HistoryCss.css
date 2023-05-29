@@ -1,0 +1,71 @@
+body{
+    font-size: large;
+    line-height: 1.5;
+    background-color: #b1a296;
+    font-family: sans-serif;
+    overflow-x: hidden;
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+    header {
+      background-color: #8d8178;
+      height: 75px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 50px;
+    }
+
+    .HemPil img{
+      margin-left: 175%;
+      margin-top: 20%;
+    }
+    h1 {
+      line-height: 1.5;
+      color:#F9E2D1;
+      text-shadow: 0.5px 0.5px #333;
+      text-align: center;
+      margin-left: 6.5%;
+      text-decoration: underline;
+      margin-left: -77%;
+    }
+
+  .pil{
+    margin-left: 66%;
+    margin-top: -58px;
+  }
+    
+  
+    
+    .bild1 img {
+      height: 300px;
+      width: 300px;
+      margin-top: -50px;
+      border-radius: 10px;
+      float: right;
+      margin-right: 20%;
+      }
+
+    h2 {
+    
+      color:#F9E2D1;
+      text-shadow: 0.75px 0.75px #333;;
+      text-align: center;
+    } 
+    p {
+      line-height: 1.5;
+      color:#F9E2D1;
+      text-shadow: 0.5px 0.5px #333;
+      margin-left: 10%;
+      max-width: 800px;
+      font-size: large;
+      
+    }
+    
+span{
+    color: #F9E2D1;
+}

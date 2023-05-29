@@ -1,0 +1,48 @@
+
+header {
+  background-color: bisque;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 50px;
+  
+
+}
+
+h1 {
+  line-height: 1.5;
+  color:indianred;
+  text-shadow: 0.5px 0.5px #333
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 50px;
+  
+}
+
+.card {
+  width: 300px;
+  height: 400px;
+  background-color: bisque;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  text-align: center;
+  padding: 50px;
+  line-height: 1.5;
+  color:indianred;
+  text-shadow: 0.5px 0.5px #333
+}
+
+footer {
+  background-color:indianred;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+}

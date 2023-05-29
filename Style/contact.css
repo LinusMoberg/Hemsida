@@ -1,0 +1,21 @@
+header {
+    background-color: bisque;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+  
+  }
+  h1 {
+    line-height: 1.5;
+    color:indianred;
+    text-shadow: 0.5px 0.5px #333
+  }¨
+
+
+  
+  body {
+    font-family: sans-serif;
+    margin: auto;
+  }
